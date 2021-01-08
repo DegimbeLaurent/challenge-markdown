@@ -1,4 +1,4 @@
-#Degimbe Laurent
+# Degimbe Laurent
 "Le fardeau supporté en groupe est une plume"
 ![photo](https://media-exp1.licdn.com/dms/image/C4D03AQHoYO8Dm16rLA/profile-displayphoto-shrink_200_200/0/1565350518019?e=1615420800&v=beta&t=y4kYSeiRW8R1fMbpITWdVtF4KozlltVgZ89cSQnNvSo)
 
@@ -12,25 +12,25 @@ les choses avec humilité,respect,curiosotié ingénue et surtout avec amour." -
 |Ananas sur pizza:      |             -[x]-                    |
 
 
-##Hobbies
+## Hobbies
 
 * l'Art en général (sculture, peinture, gravure...)
 * la Photographie Noir et Blanc
 * l'Informatique 
 
 
-##Vous pouvez toujours compter sur moi lorsque
+## Vous pouvez toujours compter sur moi lorsque
 
 Dites à vos coéquipiers quelle contribution positive au groupe vous apporterez.
 Cela peut être technique, mettre les gens à l'aise, être organisateur ...
 
 
-##Une histoire amusante
+## Une histoire amusante
 
 Racontez une courte histoire amusante sur votre vie.
 
 
-###TL; DR
+### TL; DR
 
 Résumez votre histoire amusante en une courte phrase.
 
