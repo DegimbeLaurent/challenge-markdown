@@ -31,8 +31,8 @@ Je suis emphatique donc je serai toujours prêt à vous aider.
 
 ## Une histoire amusante
 
-Quand je rentrais de l'école quand j'étais petit, ma maman regardais la petite maison la prairie. Du coup jour après jour j'entends cette musique que je commence à connaitre. Lors d'un soupé scout, il y a blind test sur les séries télévisées.
-Evidemment la petite maison de la prairie arrive, il me faut pas entendre 1,5 seconde de musique pour crier la réponse...
+Quand je rentrais de l'école quand j'étais petit, ma maman regardais la petite maison dans la prairie. Du coup jour après jour j'entends cette musique que je commence à connaitre. Lors d'un soupé scout, il y a blind test sur les séries télévisées.
+Evidemment la petite maison dans la prairie arrive, il me faut pas entendre 1,5 seconde de musique pour crier la réponse...
 GRAVE erreur pendant le reste de l'année scout ils m'ont appelé Charles Ingalls
 
 ### TL; DR
