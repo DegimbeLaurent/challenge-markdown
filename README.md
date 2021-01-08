@@ -1,6 +1,8 @@
 # Degimbe Laurent
-"Le fardeau supporté en groupe est une plume"
+
 ![photo](https://media-exp1.licdn.com/dms/image/C4D03AQHoYO8Dm16rLA/profile-displayphoto-shrink_200_200/0/1565350518019?e=1615420800&v=beta&t=y4kYSeiRW8R1fMbpITWdVtF4KozlltVgZ89cSQnNvSo)
+
+"Le fardeau supporté en groupe est une plume"
 
 "Je suis un homme comme tant d'autres qui est en train de vivre son expérience, un homme qui regarde autour de lui
 les choses avec humilité,respect,curiosotié ingénue et surtout avec amour." -Federico Felini
