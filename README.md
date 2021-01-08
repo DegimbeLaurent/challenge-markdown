@@ -13,7 +13,7 @@ les choses avec humilité,respect,curiosotié ingénue et surtout avec amour." -
 |Sexe:                  |                                    M |
 |Couleur préférée:      |                               Orange |
 |Nourriture favorite:   | Alcanienne SURTOUT la tarte flambé   |
-|Ananas sur pizza:      |             -[x]-                    |
+|Ananas sur pizza:      |   <ul><li>- [x] yes</li> <li>- [ ] no</li></ul> |
 
 
 ## Hobbies
@@ -25,18 +25,19 @@ les choses avec humilité,respect,curiosotié ingénue et surtout avec amour." -
 
 ## Vous pouvez toujours compter sur moi lorsque
 
-Dites à vos coéquipiers quelle contribution positive au groupe vous apporterez.
-Cela peut être technique, mettre les gens à l'aise, être organisateur ...
+Je suis ouvert d'esprit donc je peux toujours donner mon avis sans jugement et conseiller si possible.
+Je suis emphatique donc je serai toujours prêt à vous aider.
 
 
 ## Une histoire amusante
 
-Racontez une courte histoire amusante sur votre vie.
-
+Quand je rentrais de l'école quand j'étais petit, ma maman regardais la petite maison la prairie. Du coup jour après jour j'entends cette musique que je commence à connaitre. Lors d'un soupé scout, il y a blind test sur les séries télévisées.
+Evidemment la petite maison de la prairie arrive, il me faut pas entendre 1,5 seconde de musique pour crier la réponse...
+GRAVE erreur pendant le reste de l'année scout ils m'ont appelé Charles Ingalls
 
 ### TL; DR
 
-Résumez votre histoire amusante en une courte phrase.
+Certaines choses ne doivent pas être dites
 
 
 << [précédent](https://deceulaeradrien.github.io/challenge-markdown/) || Degimbe Laurent || [suivant](https://stephane-englebert.github.io/challenge-markdown/) >>
