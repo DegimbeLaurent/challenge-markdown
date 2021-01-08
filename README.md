@@ -39,4 +39,4 @@ Racontez une courte histoire amusante sur votre vie.
 Résumez votre histoire amusante en une courte phrase.
 
 
-<< précédent || Degimbe Laurent || suivant >>
+<< [précédent](https://deceulaeradrien.github.io/challenge-markdown/) || Degimbe Laurent || [suivant](https://stephane-englebert.github.io/challenge-markdown/) >>
