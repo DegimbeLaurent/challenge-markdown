@@ -5,8 +5,9 @@
 "Je suis un homme comme tant d'autres qui est en train de vivre son expérience, un homme qui regarde autour de lui
 les choses avec humilité,respect,curiosotié ingénue et surtout avec amour." -Federico Felini
 
-|Anniversaire:          |                             18 avril |
+|                       |                                      |
 |-----------------------|--------------------------------------|
+|Anniversaire:          |                             18 avril |
 |Sexe:                  |                                    M |
 |Couleur préférée:      |                               Orange |
 |Nourriture favorite:   | Alcanienne SURTOUT la tarte flambé   |
